@@ -1,0 +1,8 @@
+github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e h1:JKmoR8x90Iww1ks85zJ1lfDGgIiMDuIptTOhJq+zKyg=
+github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
+github.com/gopherjs/jquery v0.0.0-20180404123100-3ba2b901425e h1:Tf0PnEo36tq56/JezxbbiFpEce0pmK6tY7hS6PNS7tI=
+github.com/gopherjs/jquery v0.0.0-20180404123100-3ba2b901425e/go.mod h1:xKR3tvLne+vYYPH9d4DM8X9MKlNV2yXDEomxulcK218=
+github.com/gopherjs/vecty v0.0.0-20190121081546-d00da0c86b42 h1:LlU+AwUtJDx5tjLzvwHHUzQ2py+jWpvDX8K4rEvCoCA=
+github.com/gopherjs/vecty v0.0.0-20190121081546-d00da0c86b42/go.mod h1:cCfq26X9MMEw/ZgZRpDDNSWfC7CO/u2ba/nGpjEVM/o=
+honnef.co/go/js/dom v0.0.0-20190403051653-d6d651dc5aea h1:l6lyoxaYVdN7ef9QLiRuDMKFTX8a4QtrRg7rf8nmlb0=
+honnef.co/go/js/dom v0.0.0-20190403051653-d6d651dc5aea/go.mod h1:sUMDUKNB2ZcVjt92UnLy3cdGs+wDAcrPdV3JP6sVgA4=
